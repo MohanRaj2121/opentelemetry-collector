@@ -158,6 +158,8 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
+//replace opentelemetry.io/collector/receiver/hostmetricsreceiver/internal/experimentalmetricmetadata => /Users/venil/programming/calibraint/opentelemetry-collector/receiver/hostmetricsreceiver/internal/experimentalmetricmetadata
+
 retract (
 	v0.76.2
 	v0.76.1

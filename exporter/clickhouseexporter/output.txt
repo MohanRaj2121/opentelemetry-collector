@@ -1,0 +1,20 @@
+Span #0
+    Trace ID       : f30faffbde5fcf71432f89da1bf7bc14
+    Parent ID      : 6f1ff7f9cf4ec1c7
+    ID             : 8d1e820c1ac57337
+    Name           : okey-dokey
+    Kind           : Server
+    Start time     : 2024-01-16 14:13:54.585877 +0000 UTC
+    End time       : 2024-01-16 14:13:54.586 +0000 UTC
+    Status code    : Unset
+    Status message :
+Span #1
+    Trace ID       : f30faffbde5fcf71432f89da1bf7bc14
+    Parent ID      :
+    ID             : 6f1ff7f9cf4ec1c7
+    Name           : lets-go
+    Kind           : Client
+    Start time     : 2024-01-16 14:13:54.585877 +0000 UTC
+    End time       : 2024-01-16 14:13:54.586 +0000 UTC
+    Status code    : Unset
+    Status message :

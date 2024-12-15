@@ -112,6 +112,8 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
+//replace go.opentelemetry.io/collector/internal/traceutil => /Users/venil/programming/calibraint/opentelemetry-collector/internal/traceutil
+
 retract (
 	v0.76.2
 	v0.76.1

@@ -3,8 +3,6 @@
 
 //go:build integration
 // +build integration
-// +build <tag>
-
 
 package clickhouseexporter
 
